@@ -132,3 +132,4 @@ dmypy.json
 /output
 .vs
 /.vs
+py_to_exe.py
